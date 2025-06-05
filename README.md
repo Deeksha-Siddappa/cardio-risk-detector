@@ -34,10 +34,10 @@ Then open: http://127.0.0.1:5000
 ```
 ## 📂 Project Structure
 
-app.py – Flask backend
-templates/ – upload.html, result.html
-uploads/ – Stores uploaded images
-sequential_ecg_model.h5 – Trained model
+- app.py – Flask backend
+- templates/ – upload.html, result.html
+- uploads/ – Stores uploaded images
+- sequential_ecg_model.h5 – Trained model
 
 ## 📦 Requirements
 
