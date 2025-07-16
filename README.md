@@ -55,5 +55,5 @@ pip install flask tensorflow numpy opencv-python
 
 ## 👥 Contributors
 
-- [Deeksha Siddappa](https://github.com/deeksha-123)
+- [Deeksha Siddappa](https://github.com/Deeksha-Siddappa/cardio-risk-detector)
 
