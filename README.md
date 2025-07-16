@@ -51,3 +51,9 @@ Make sure you have the following Python packages installed:
 To install all at once:
 ```bash
 pip install flask tensorflow numpy opencv-python
+```
+
+## 👥 Contributors
+
+- [Deeksha Siddappa](https://github.com/deeksha-123)
+
